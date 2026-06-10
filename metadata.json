@@ -1,0 +1,6 @@
+{
+  "name": "AI FAQ Assistant Build With AI Solo",
+  "description": "Asisten chatbot AI FAQ interaktif untuk peserta Build With AI Solo di Hetero Space Solo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
